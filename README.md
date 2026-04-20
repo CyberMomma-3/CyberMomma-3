@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**CyberMomma-3/CyberMomma-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi, I'm [Your Name]
+### About Me
+- CompTIA Security+ Certified - 1l 20 years of healthcare compliance
+& HIPAA experience - / Currently building cybersecurity
+home labs - ® Seeking entry-level SOC Analyst /
+Healthcare IT Security roles -E Currently learning: [whatever
+you're working on]
+## Certifications
+-V CompTIA Security+
+## Connect With Mel - LinkedIn: www.linkedin.com/in/melissa-gaither-594901234
