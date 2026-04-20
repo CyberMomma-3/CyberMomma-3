@@ -1,4 +1,4 @@
-#Hi, I'm Melissa
+Hi, I'm Melissa
 ### About Me
 - CompTIA Security+ Certified - 1l 20 years of healthcare compliance
 & HIPAA experience - / Currently building cybersecurity
