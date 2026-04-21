@@ -7,6 +7,6 @@ Hi, I'm Melissa
 - Currently learning: Attacker/Victim labs, vulnerability scans, AI tools and apps
 ## Certifications
 - CompTIA Security+
-## [Connect With Me 
+## Connect With Me 
 [LinkedIn](https://www.linkedin.com/in/melissa-gaither-594901234)
 [TryHackMe](https://tryhackme.com/p/Hack.Mom3)
