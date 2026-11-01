@@ -1,7 +1,7 @@
 Hi, I'm Melissa
 ### About Me
 - CompTIA Security+ Certified
-- 20 years of healthcare compliance & HIPAA experience
+- 20 years working in HIPAA-regulated dental practices
 - Currently building cybersecurity home labs
 - Seeking entry-level GRC roles / SOC Analyst / Healthcare IT Security roles 
 - Currently learning: Attacker/Victim labs, vulnerability scans, AI tools and apps
